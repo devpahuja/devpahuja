@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devpahuja
-- 👀 I’m interested in JavaScript, TypeScript and Java
-- 🌱 I’m currently learning NodeJS, NextJS
-- 💞️ I’m looking to collaborate on any JavScript/TypeScript project
+- 👀 I’m interested in Golang
+- 🌱 I’m currently learning System Designing
+- 💞️ I’m looking to collaborate on any Go project
 - 📫 Reach me through email: devpahuja10@gmail.com
 
 <!---
